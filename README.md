@@ -36,96 +36,35 @@
 
 ## Meetings: 
 
-1. Monthly CE-STM meeting link   
-2. TGR subgroup meeting – TBA\! 
+1. Monthly CE-STM [meeting link]()   
+2. TGR subgroup meeting – TBA\!
+   1. [Meeting Minutes]()
+   2. [Meeting Link]()
 
- 
-
- 
 
 ## Possible avenues 
 
 1. Tests of GR   
     
+What about 
+1. Waveform requirements? 
+1. Numerical Relativity Requirements? 
 
-Waveform requirements? 
+In order to achieve the full potential of CE with tests of GR. May deserve its own work group?
 
-Numerical Relativity Requirements? 
 
-In order to achieve the full potential of CE with tests of GR. May deserve its own sheet. 
+## [Science Objectives](ScienceObjectives.md)
 
- 
+## [Measurement Objectives](MeasurementObjectives.md)
 
-## Science Objectives 
+## [Measurement Requirements](MeasurementRequirements.md)
 
-1. Does general relativity correctly describe the dynamics of compact binary systems?   
-2. What are the polarization states of gravitational waves?   
-3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?   
-4. What is the final state of black holes in binary mergers and how do they approach it?   
-5. What can GW observations say, if any, about QG?  
-6. Are cosmological observations consistent with general relativity?
+## [Meeting minutes](MeetingMinutes.md)
 
  
+## [Code of Conduct](CodeOfConduct.md)
 
-## More details 
-
-Non-trivial possibilities noted here in sub lists 
-
-1. Does general relativity correctly describe the dynamics of compact binary systems?   
-   1. Standard tests of GR: Inspiral, Merger, RD
-   2. FTI, TIGER,etc.   
-   3. NS?   
-1. What are the polarization states of gravitational waves?
-   1. Multiple lensed images – detectors   
-  
-3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?
-   1. Tests of No hair conjecture
-   2. Linear dynamics   
-4. What is the final state of black holes in binary mergers and how do they approach it
-   1. Non-linear, Post-merger dynamics   
-   2. Is the dynamics of settling down to equilibrium GR Kerr BH consistent with GR.
-5. Are cosmological observations consistent with general relativity?
-   1.  Parametrized dispersion relation tests
-   2.  Tests of fundamental comological principles – isotropy, homogeneity   
-   3.  Tests of Cosmology, Lambda CDM, dark energy models ?
-8. Can we discern the nature of the progenitors from the late-time dynamics of the black hole remnant?   
-   1. We are limited by NR simulations and current knowledge   
-   1. Not test of GR per se.
-7. Probe and test the strong field gravity at the black hole horizons?
-   1. E.g Parametrized SEOB
-8. Tests using environmental factors?   
-
-## Measurement Objectives 
-
-To be worked on 
-
-## Meeting Notes/ Comments 
-
-
-### Dec 24 
-
-NA: Can this be classified as fundamental physics? We should be careful 
-
-VP: In common usage/literature, fundamental physics has mostly been used in the context of HEP, particle physics, and nuclear interactions.   
- 
-
-This has been on my mind as well. My viewpoint is that anything to do with black holes has direct ramifications on general relativity and theory of gravity. Gravity being one of the four fundamental interactions, testing BH physics could be justified as fundamental physics.   
- 
-
-
-## Action items: 
-
-1. Fetch emails   
-2. Create slack channel   
-3. Check if people are okay with slack   
-4. Find common meeting time 
-
-## Code of Conduct 
-
- 
-
-We follow [APS/LVK Code of Conduct policy](https://dcc.ligo.org/public/0159/M1900037/002/LVKCodeOfConduct.pdf). The goal is strive for workplaces free from discrimination and harassment. Group members will avoid any inappropriate actions or statements based on individual characteristics such as age, race, ethnicity, sexual orientation, gender identity, gender expression, marital status, nationality, political affiliation, ability status, or educational background.  
-
+All members of this project are bound by this Code of conduct.
  
 
  
