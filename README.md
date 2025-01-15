@@ -22,7 +22,7 @@
 17. Saeed Rastgoo (srastgoo@ualberta.ca)   
 18. Thomas Sotiriou (thomas.sotiriou@nottingham.ac.uk) 
 
-Please update [this file](TeamMembers.md) with your information. Please note that strings with special characters must be enclosed in double quotes.
+Please update [this file](team_members.md) with your information. Please note that strings with special characters must be enclosed in double quotes.
 
 ## Important links: 
 
@@ -33,7 +33,11 @@ Please update [this file](TeamMembers.md) with your information. Please note tha
 5. [Whenisgood for CE-STM TGR group meeting](https://whenisgood.net/ay9nj4i)   
 6. CE-STM-TGM meeting
    1. [Link]()
-   2. [Minutes](Meetings.md)
+   2. [Minutes](meetings.md)
+7. Vision documents
+   1. [Astronet Roadmap 2020-2035](https://www.astronet-eu.org/?page_id=521)
+   2. [Pathways to Discovery in Astronomy and Astrophysics](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s)
+   3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
 
 ## Possible avenues 
 
@@ -46,26 +50,15 @@ What about
 In order to achieve the full potential of CE with tests of GR. May deserve its own work group?
 
 
-## [Science Objectives](ScienceObjectives.md)
+## [Science Objectives](science_objectives.md)
 
-## [Measurement Objectives](MeasurementObjectives.md)
+## [Measurement Objectives](measurement_objectives.md)
 
-## [Measurement Requirements](MeasurementRequirements.md)
+## [Measurement Requirements](measurement_requirements.md)
 
-## [Meeting minutes](MeetingMinutes.md)
+## [Meeting minutes](meetings.md)
 
  
-## [Code of Conduct](CodeOfConduct.md)
+## [Code of Conduct](code_of_conduct.md)
 
 All members of this project are bound by this Code of conduct.
- 
-
- 
-
- 
-
- 
-
- 
-
- 
