@@ -22,7 +22,7 @@
 17. Saeed Rastgoo (srastgoo@ualberta.ca)   
 18. Thomas Sotiriou (thomas.sotiriou@nottingham.ac.uk) 
 
-Please update [this file](TeamMembers.md) with your information.
+Please update [this file](TeamMembers.md) with your information. Please note that strings with special characters must be enclosed in double quotes.
 
 ## Important links: 
 
