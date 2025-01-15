@@ -71,30 +71,29 @@ In order to achieve the full potential of CE with tests of GR. May deserve its o
 
 Non-trivial possibilities noted here in sub lists 
 
-1. What are the polarization states of gravitational waves?   
-1. Multiple lensed images – detectors   
-2. Does general relativity correctly describe the dynamics of compact binary systems?   
-1. Standard tests of GR: Inspiral, Merger, RD   
-2. NS?   
-3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?   
-1. Tests of No hair conjecture   
-2. Linear dynamics   
-4. What is the final state of black holes in binary mergers and how do they approach it   
-1. Non-linear Post merger dynamics   
-2. How we obtain a GR BH and the dynamics associated with it.   
-5. Can we discern the nature of the progenitors from the late-time dynamics of the black hole remnant?   
-1. We are limited by NR simulations and current knowledge   
-2. Not test of GR per se.   
-6. What is the dispersion relation for gravitational waves?   
-1. Possible connection with MMA   
-2. Parametrized dispersion relation   
-7. Can we use gravitational waves to probe the strong field gravity at the black hole horizons?   
-1. E.g Parametrized SEOB   
+1. Does general relativity correctly describe the dynamics of compact binary systems?   
+   1. Standard tests of GR: Inspiral, Merger, RD
+   2. FTI, TIGER,etc.   
+   3. NS?   
+1. What are the polarization states of gravitational waves?
+   1. Multiple lensed images – detectors   
+  
+3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?
+   1. Tests of No hair conjecture
+   2. Linear dynamics   
+4. What is the final state of black holes in binary mergers and how do they approach it
+   1. Non-linear, Post-merger dynamics   
+   2. Is the dynamics of settling down to equilibrium GR Kerr BH consistent with GR.
+5. Are cosmological observations consistent with general relativity?
+   1.  Parametrized dispersion relation tests
+   2.  Tests of fundamental comological principles – isotropy, homogeneity   
+   3.  Tests of Cosmology, Lambda CDM, dark energy models ?
+8. Can we discern the nature of the progenitors from the late-time dynamics of the black hole remnant?   
+   1. We are limited by NR simulations and current knowledge   
+   1. Not test of GR per se.
+7. Probe and test the strong field gravity at the black hole horizons?
+   1. E.g Parametrized SEOB
 8. Tests using environmental factors?   
-9. Tests of Cosmology, Lambda CDM, dark energy models ?   
-2. Tests of fundamental comological principles – isotropy, homogeneity   
-3. Would pro 
-
 
 ## Measurement Objectives 
 
