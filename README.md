@@ -28,19 +28,12 @@
 
 1. [Science traceability matrix worksheet](https://docs.google.com/spreadsheets/d/1B80x-tropBN72vWFrzy340Z8rSlZ7fZPjYyoVCZUF8g/edit?gid=565516239#gid=565516239)   
 2. [STM Meeting minutes](https://docs.google.com/document/d/1s7_K08WINGpA2mwgS5sOl8UF6p8LDL1yNAjLkTPiKPw/edit?tab=t.0)   
-3. [STM Timeline](https://docs.google.com/document/d/10SoGxckP27lC824mTDJ1VIA0VC9W-XMlp6qpsHw5ijM/edit?tab=t.0)   
-4. Github link: Coming Soon\!   
+3. [STM Timeline](https://docs.google.com/document/d/10SoGxckP27lC824mTDJ1VIA0VC9W-XMlp6qpsHw5ijM/edit?tab=t.0)
+4. Monthly CE-STM [meeting link]()  
 5. [Whenisgood for CE-STM TGR group meeting](https://whenisgood.net/ay9nj4i)   
-6. TGM meeting link 
-
-
-## Meetings: 
-
-1. Monthly CE-STM [meeting link]()   
-2. TGR subgroup meeting – TBA\!
-   1. [Meeting Minutes]()
-   2. [Meeting Link]()
-
+6. CE-STM-TGM meeting
+   1. [Link]()
+   2. [Minutes](Meetings.md)
 
 ## Possible avenues 
 
