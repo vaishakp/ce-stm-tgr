@@ -30,11 +30,12 @@ Please update [this file](team_members.md) with your information. Please note th
 2. [STM Meeting minutes](https://docs.google.com/document/d/1s7_K08WINGpA2mwgS5sOl8UF6p8LDL1yNAjLkTPiKPw/edit?tab=t.0)   
 3. [STM Timeline](https://docs.google.com/document/d/10SoGxckP27lC824mTDJ1VIA0VC9W-XMlp6qpsHw5ijM/edit?tab=t.0)
 4. Monthly CE-STM [meeting link]()  
-5. [Whenisgood for CE-STM TGR group meeting](https://whenisgood.net/ay9nj4i)   
-6. CE-STM-TGM meeting
+5. [Whenisgood for CE-STM TGR group meeting](https://whenisgood.net/ay9nj4i)
+6. [Slack channel](https://join.slack.com/share/enQtODI5MTIyNzQ2MDE1MS0wNDcxMzUzNDJhM2M3N2U3MDg2NTNjNjY3MjNhMWJmMTg5YTU2MGRhOGNhNWQ3N2MyMjRkNmM0NjA2YThiZGM1)
+7. CE-STM-TGM meeting
    1. [Link]()
    2. [Minutes](meetings.md)
-7. Vision documents
+8. Vision documents
    1. [Astronet Roadmap 2020-2035](https://www.astronet-eu.org/?page_id=521)
    2. [Pathways to Discovery in Astronomy and Astrophysics](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s)
    3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
