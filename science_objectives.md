@@ -1,11 +1,10 @@
 # Science Objectives
 
 1. Does general relativity correctly describe the dynamics of compact binary systems?
-2. What are the polarization states of gravitational waves?
-3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?
-4. What is the final state of black holes in binary mergers and how do they approach it?
-5. What can GW observations say, if any, about QG?
-6. Are cosmological observations consistent with general relativity?
+1. What are the polarization states of gravitational waves?
+1. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?
+1. What is the final state of black holes in binary mergers and how do they approach it?
+1. What can GW observations say, if any, about QG?
 
 
 # Vision references
