@@ -12,12 +12,13 @@
     1. **BH spectroscopy/ Tests of no-hair conjecture**
     
 1. What is the final state of black holes in binary mergers and how do they approach it?
-1. What can GW observations say, if any, about QG?
-   1. "Can we see  quantum gravity imprints/fingerprints  on GWs ?
-   1. What are the quantum gravity imprints in gravitaional waves.
-1. Are cosmological observations consistent with general relativity?
+   1. Are cosmological observations consistent with general relativity?
    1. Measure the distribution of sources in the sky and test consistency with isotropy/homogeneity
    2. Measure the dispersion relation and the propagation of gravtiational waves and quantiry deviations
    3. Quantify deviations from LCDM model
    4. Lensing, Darm matter, alternate theories.
+1. What can GW observations say, if any, about QG?
+   1. "Can we see  quantum gravity imprints/fingerprints  on GWs ?
+   1. What are the quantum gravity imprints in gravitaional waves.
+
    
