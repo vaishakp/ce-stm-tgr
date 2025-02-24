@@ -23,6 +23,9 @@ In the list below corresponding to every science objective, please list the name
     1. **BH spectroscopy/ Tests of no-hair conjecture**
     
 1. What is the final state of black holes in binary mergers and how do they approach it?
+    1. Non-linear effects
+    2. Non-linear memory
+    3. 
 1. Are cosmological observations consistent with general relativity?
    1. Measure the distribution of sources in the sky and test consistency with isotropy/homogeneity
    2. Measure the dispersion relation and the propagation of gravtiational waves and quantiry deviations
