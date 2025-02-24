@@ -1,4 +1,7 @@
 # Measurement Objectives
+All of the CE work groups' science objectives have almost the same measurement objectives at the highest level: measure the amplitude and frequency evolution of gravitational waves. Here instead we will list the parameters/observables that need to be inferred in order to test GR.
+
+In the list below corresponding to every science objective, please list the names of tests to be carried out and their parameters. 
 
 1. Does general relativity correctly describe the dynamics of compact binary systems?
     1. **FTI** Calculate/infer the contribution to the phase of gravitational wave at each PN order.
