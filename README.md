@@ -32,7 +32,7 @@ Please update [this file](team_members.yaml) with your information. Please note 
 4. Monthly CE-STM [meeting link]()  
 5. [Whenisgood for CE-STM TGR group meeting](https://whenisgood.net/ay9nj4i)
 6. [Slack channel](https://join.slack.com/share/enQtODI5MTIyNzQ2MDE1MS0wNDcxMzUzNDJhM2M3N2U3MDg2NTNjNjY3MjNhMWJmMTg5YTU2MGRhOGNhNWQ3N2MyMjRkNmM0NjA2YThiZGM1)
-7. CE-STM-TGM meeting
+7. **CE-STM-TGM meeting**
    1. [Link](https://psu.zoom.us/j/2522546537)
    2. [Minutes](meetings.md)
 8. Vision documents
