@@ -27,6 +27,7 @@ Measure the deviaitions from GR parameters (https://arxiv.org/abs/2504.10130)
 Measure the QNMs of the remnant and test its consistency with the inpiral dynamics.
 
 #### 1.3.1 **IMRCT**
+Measure consistency of the inspiral and post-inspiral signal (https://arxiv.org/abs/1704.06784)
 
 ##### Observables to infer:
 1. deviations in final mass and spin
