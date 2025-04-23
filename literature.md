@@ -11,8 +11,8 @@ Parameterized test. Calculate/infer the contribution to the phase of gravitation
 1. Inspiral coefficients $\varphi_i$ (2N+1) + post-inspiral ($\alpha_i, \beta_i$. e.g. 2 beta + 3 alpha in IMRPhenomPv2)
 
 References:
-[1] https://arxiv.org/abs/2203.13937
-[2]
+1. https://arxiv.org/abs/2203.13937
+2.
 
 ### 1.2 **pSEOB**. 
 Measure the deviaitions from GR parameters
