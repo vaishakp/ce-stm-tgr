@@ -8,6 +8,11 @@ In the list below corresponding to every science objective, please list the name
 ### 1.1 **FTI**. 
 Parameterized test. Calculate/infer the contribution to the phase of gravitational wave at each PN order.
 
+#### References:
+
+1. https://arxiv.org/abs/2203.13937
+
+
 #### Observables to infer:
 1. Inspiral coefficients $\varphi_i$ (2N+1) + post-inspiral ($\alpha_i, \beta_i$. e.g. 2 beta + 3 alpha in IMRPhenomPv2)
 
