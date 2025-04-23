@@ -39,7 +39,7 @@ Measure consistency of the inspiral and post-inspiral signal (https://arxiv.org/
 Measure the QNMs and infer the remnant mass and spin. Check its consistency with IMR. 
 
 ##### Observables to infer
-1. 
+1. QNM frequencies
 
 #### 1.3.3 ** Amplitude-phase consistencey **
 ##### Observables to infer
