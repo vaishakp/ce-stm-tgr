@@ -17,7 +17,10 @@ Parameterized test. Calculate/infer the contribution to the phase of gravitation
 1. Inspiral coefficients $\varphi_i$ (2N+1) + post-inspiral ($\alpha_i, \beta_i$. e.g. 2 beta + 3 alpha in IMRPhenomPv2)
 
 ### 1.2 **pSEOB**. 
-Measure the deviaitions from GR parameters (https://arxiv.org/abs/2504.10130)
+Measure the deviaitions from GR parameters 
+
+#### References
+1. https://arxiv.org/abs/2504.10130
 
 #### Observables to infer::
 1. Amplitudes
@@ -26,8 +29,11 @@ Measure the deviaitions from GR parameters (https://arxiv.org/abs/2504.10130)
 ### 1.3 **Consistency tests**. 
 Measure the QNMs of the remnant and test its consistency with the inpiral dynamics.
 
+Ringdown QNM estimation + IMR analysis
+
 #### References
-1. Ringdown QNM estimation + IMR analysis
+1.
+
    
 #### 1.3.1 **IMRCT**
 Measure consistency of the inspiral and post-inspiral signal (https://arxiv.org/abs/1704.06784)
