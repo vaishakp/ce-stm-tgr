@@ -36,7 +36,7 @@ Measure consistency of the inspiral and post-inspiral signal (https://arxiv.org/
 1. deviations in final mass and spin
 
 #### 1.3.2 **Ringdown consistency** 
-Measure the QNMs of the remnant and test its consistency with the ringdown  dynamics.
+Measure the QNMs and infer the remnant mass and spin. Check its consistency with IMR. 
 
 ##### Observables to infer
 1. 
