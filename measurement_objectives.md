@@ -26,6 +26,9 @@ Measure the deviaitions from GR parameters (https://arxiv.org/abs/2504.10130)
 ### 1.3 **Consistency tests**. 
 Measure the QNMs of the remnant and test its consistency with the inpiral dynamics.
 
+#### References
+1. Ringdown QNM estimation + IMR analysis
+   
 #### 1.3.1 **IMRCT**
 Measure consistency of the inspiral and post-inspiral signal (https://arxiv.org/abs/1704.06784)
 
