@@ -7,7 +7,7 @@
 2. Nils Andersson ([n.a.andersson@southampton.ac.uk](mailto:n.a.andersson@southampton.ac.uk))  
 3. **Vaishak Prasad (vbp5193@psu.edu)**   
 4. **Arnab Dhani (arnab.dhani@aei.mpg.de)**   
-5. antonioenea.romano@ligo.org   
+5. Antonio Enea Romano (antonioenea.romano@ligo.org)   
 6. Collin Capano (cdcapano@syr.edu)   
 7. Shilpa Kastha (shilpa.kastha@saha.ac.in)   
 8. Badri Krishnan (badri.krishnan@ru.nl)   
