@@ -60,6 +60,8 @@ Measure the independent polarization states and constrain deviations from GR
 
 #### Observables to infer
 1. Constraints on four additional independent polarization states from a network of atleast three detectors.
+2. Constrain the frequency and polarization dependency of the speed of gravitational waves (2403.19552).
+3. Constrain the frequency and polarization dependency of the gravitational waves luminosity distance (2403.19552).
 
 ---
 ## 3. Does mass and spin angular momentum characterize isolated/perturbed astrophysical black holes?
@@ -87,6 +89,7 @@ Measure the independent polarization states and constrain deviations from GR
 1. **Modified dispersion relation parameters** ($\alpha, \mathcal{A}$)
 
 ### 5.3 Quantify deviations from LCDM model
+1. Constrain the parameters of the effective theory of dark energy (doi.org/10.1103/PhysRevD.111.084086)
 ### 5.4 Lensing, Darm matter, alternate theories....
 
 ---
