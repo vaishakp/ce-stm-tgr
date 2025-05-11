@@ -1,6 +1,6 @@
 # Measurement Requirements
 Constrain the effective theory of dark energy with multimessnger astronomy (https://doi.org/10.1103/PhysRevD.111.084086). The simulataneous measurement of the arrival time of GWs and EMWs and of the GWs and EMWs luminosity distance of a bright siren allows to set constraints on the coefficients of the EFT affecting the GWs speed. At low redshift a consistency condition can be used to test modified gravity theories with constant Planck mass and varying GWs speed.
 
-Constrain of the polarization and frequency dependency of GWs speed and luminosity distance using the effective speed approach.
+Constrain  the polarization and frequency dependency of GWs speed and luminosity distance using the effective speed approach.
 
 Compare large scale structure (LSS) and GWs estimations of the effective gravitational coupling using non parametric consistency conditions between the GWs luminosity distance, the GWs speed and LSS observations.
