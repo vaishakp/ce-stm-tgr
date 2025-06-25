@@ -14,13 +14,13 @@
 
 ## Proposed analysis
 
-| Science Objective | Epoch/ Regime             | Test name       | Tool    | Fisher implementation status  |  Bayesian implementation status | Point of Contact        | References              |   
-| ------------------|---------------------------|-----------------|---------|-------------------------------|---------------------------------|-------------------------|-------------------------|          
-|          1        | High frequency/ Ringdown  | PARSPEC         | GWFast  |                               |                                 |  Luca                   | 1910.12893, 2311.14803, | 
-|          1        | High frequency/ Ringdown  | PARSPEC         | GWBench |  Not implemented              |                                 |                         |                         |
-|          1        | Low frequency/ Inspiral   |                 |         |                               |                                 |                         |                         |
-|          3        | High frequency/ Ringdown  | spectroscopy    | pyring  |  NA                           |                                 |  Vaishak                |                         |
-
+| Science Objective | Epoch/ Regime             | Test name       | Tool    | Fisher implementation status  |  Bayesian implementation status | Point of Contact        | References              | Notes                                       |   
+| ------------------|---------------------------|-----------------|---------|-------------------------------|---------------------------------|-------------------------|-------------------------|---------------------------------------------|
+|          1        | High frequency/ Ringdown  | PARSPEC         | GWFast  |                               |                                 |  Luca                   | 1910.12893, 2311.14803, |                                             |
+|          1        | High frequency/ Ringdown  | PARSPEC         | GWBench |  Not implemented              |                                 |                         |                         |                                             |
+|          1        | Low frequency/ Inspiral   |                 |         |                               |                                 |                         |                         |                                             |
+|          3        | High frequency/ Ringdown  | spectroscopy    | pyring  |  NA                           |                                 |  Vaishak                |                         |                                             |
+|          1        | IMR                       | consistency     |         |                               |                                 |                         |                         | Reuse inspiral only, ringdown only analysis |
 
 
 ### Comments
