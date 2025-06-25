@@ -40,7 +40,7 @@ Please update [this file](team_members.yaml) with your information. Please note 
    2. [Pathways to Discovery in Astronomy and Astrophysics](https://nap.nationalacademies.org/catalog/26141/pathways-to-discovery-in-astronomy-and-astrophysics-for-the-2020s)
    3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
 9. [TGR slides](https://docs.google.com/presentation/d/19NWhEgf-ZZqXBrSV-ppqF9HlvFdHw8ev4g8d-G7gaUc/edit?usp=sharing) from the CE-STM Workshop held at PSU, 19-21 May 2025
-
+10. [Detector configurations, PSDs](https://docs.google.com/document/d/1vAWfyz1RNfle5oSDiKV3WYCb52sPpQM80UFbUHqD8Z0/edit?tab=t.0)
    
 ## Possible avenues 
 
