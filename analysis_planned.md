@@ -14,9 +14,17 @@
 
 ## Proposed analysis
 
-| Science Objective | Epoch/ Regime   | Test name  | Tool    | Fisher implementation status  |  Bayesian implementation status | Point of Contact        | Notes                   | 
-| ------------------|-----------------|------------|---------|-------------------------------|---------------------------------|-------------------------|-------------------------|          
-|                   | High frequency  | PARSPEC    | GWFast  |                               |                                 |  Luca                   | 1910.12893, 2311.14803, |
-|                   | High frequency  | PARSPEC    | GWBench |  Not implemented              |                                 |                         |                         |
-|                   |   |   |   |   |   |
-|                   |   |   |   |   |   |
+| Science Objective | Epoch/ Regime             | Test name       | Tool    | Fisher implementation status  |  Bayesian implementation status | Point of Contact        | References              |   
+| ------------------|---------------------------|-----------------|---------|-------------------------------|---------------------------------|-------------------------|-------------------------|          
+|          1        | High frequency/ Ringdown  | PARSPEC         | GWFast  |                               |                                 |  Luca                   | 1910.12893, 2311.14803, | 
+|          1        | High frequency/ Ringdown  | PARSPEC         | GWBench |  Not implemented              |                                 |                         |                         |
+|          1        | Low frequency/ Inspiral   |                 |         |                               |                                 |                         |                         |
+|          3        | High frequency/ Ringdown  | spectroscopy    | pyring  |  NA                           |                                 |  Vaishak                |                         |
+
+
+
+### Comments
+1. VP: ensure the Fisher tests can be validated against a Monte-Carlo sampling. i.e. check availability of corresponding implementation with sampling.
+2. VP: Is PARSPEC RD test implemented in frequency doamin? Check for caveats.
+3. VP: Ringdown tests not expensive. Can run samplers.
+4. 
