@@ -23,7 +23,7 @@
 |          1        | Bucket / Ringdown         | pSEOB           | GWBench |                               |                                 | Arnab                   |                         |                                             |
 |          3        | High frequency/ Ringdown  | spectroscopy    | pyring  |  NA                           |                                 |  Vaishak                |                         |                                             |
 |          1        | IMR                       | consistency     |         |                               |                                 |                         |                         | Reuse inspiral only, ringdown only analysis |
-
+|          2        | IMR                       | polarization    |         |                               |                                 |                         |                         |                                             |
 
 ### Comments
 1. VP: ensure the Fisher tests can be validated against a Monte-Carlo sampling. i.e. check availability of corresponding implementation with sampling.
