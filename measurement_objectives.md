@@ -15,7 +15,7 @@ Only one of the below redundant set of tests that can be validated with full sto
        FTI: Arnab et. al.
        ppE: Tayyaba, Luca, et. al.
 
-### 2. Ringdown: Parspec/pyring
+### 2. Ringdown: Parspec/pyring/pSEOB
       pSEOB: Arnab
       ParSpec: Tayyaba, Luca et. al
       pyring: Vaishak 
