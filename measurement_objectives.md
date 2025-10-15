@@ -3,10 +3,10 @@ All of the CE work groups' science objectives have almost the same measurement o
 
 
 
-# Science and Measurement objectives pursued in the STM study
+## Science and Measurement objectives pursued in the STM study
 
 
-## 1. Does general relativity correctly describe the dynamics of compact binary systems?
+### 1. Does general relativity correctly describe the dynamics of compact binary systems?
 
 Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report.
 
@@ -20,8 +20,7 @@ Only one of the below redundant set of tests that can be validated with full sto
       ParSpec: Tayyaba, Luca et. al
       pyring: Vaishak 
    
-
- ## 5. Are cosmological observations consistent with general relativity?
+### 5. Are cosmological observations consistent with general relativity?
     Modified dispersion relation tests (Fisher): Pratyutsava 
 
 
