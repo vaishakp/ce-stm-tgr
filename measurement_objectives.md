@@ -1,7 +1,37 @@
 # Measurement Objectives
 All of the CE work groups' science objectives have almost the same measurement objectives at the highest level: measure the amplitude and frequency evolution of gravitational waves. Here instead we will list the parameters/observables that need to be inferred in order to test GR.
 
-In the list below corresponding to every science objective, please list the names of tests to be carried out and their parameters. 
+
+
+# Science and Measurement objectives pursued in the STM study
+
+
+## 1. Does general relativity correctly describe the dynamics of compact binary systems?
+
+Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report
+
+### 1. Inspiral: TIGER/FTI/Parspec
+       TIGER: Shaun/Krishnendu -1 PN.
+       FTI: Arnab et. al.
+       Parspec: Tayyaba, Luca, et. al.
+
+### 2. Ringdown: Parspec/pyring
+      ParSpec: Tayyaba, Luca et. al
+      pyring: Vaishak 
+   
+
+ ## 5. Are cosmological observations consistent with general relativity?
+    Modified dispersion relation tests: Pratyutsava
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+# All possible measurement objectives
 
 ## 1. Does general relativity correctly describe the dynamics of compact binary systems?
 
