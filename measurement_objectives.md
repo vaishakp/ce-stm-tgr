@@ -90,6 +90,18 @@ Measure the QNMs and infer the remnant mass and spin. Check its consistency with
 1. Average of the SIQM coefficients $\kappa_1, \kappa_2$
 2. 
 
+### 1.6 **TIGER**:
+Measure the fractional -1PN deviation to the waveform phase $\varphi_\mathrm{GR} (1 + \delta \varphi_{-1\mathrm{PN}})$  using the inspiral TIGER framework. Can be performed for higher PN orders and for specific theories, e.g. EsGB.
+
+We will use IMRPhenomXPHM as the baseline waveform.
+
+#### Observables to infer:
+1. Constrain $\delta \varphi_{-1\mathrm{PN}}$
+
+#### References:
+1. https://arxiv.org/abs/2406.03568. We follow a similar methodology to the one presented here.
+
+
 --- 
 ## 2. What are the polarization states of gravitational waves?
 Measure the independent polarization states and constrain deviations from GR
