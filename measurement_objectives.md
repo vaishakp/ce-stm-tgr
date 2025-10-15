@@ -11,7 +11,7 @@ All of the CE work groups' science objectives have almost the same measurement o
 Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report
 
 ### 1. Inspiral: TIGER/FTI/Parspec
-       TIGER: Shaun/Krishnendu -1 PN.
+       TIGER: Shaun/Krishnendu (-1 PN).
        FTI: Arnab et. al.
        Parspec: Tayyaba, Luca, et. al.
 
