@@ -8,7 +8,7 @@ All of the CE work groups' science objectives have almost the same measurement o
 
 ### 1. Does general relativity correctly describe the dynamics of compact binary systems?
 
-Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report.
+Only one of the below redundant tests that can be validated with full stochastic sampling will be retained for the STM report.
 
 ### 1. Inspiral: TIGER/FTI/Parspec
        TIGER: Shaun/Krishnendu (-1 PN) (stochastic sampling)
