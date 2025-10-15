@@ -8,20 +8,21 @@ All of the CE work groups' science objectives have almost the same measurement o
 
 ## 1. Does general relativity correctly describe the dynamics of compact binary systems?
 
-Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report
+Only one of the below redundant set of tests that can be validated with full stochastic sampling will be retained for the STM report.
 
 ### 1. Inspiral: TIGER/FTI/Parspec
-       TIGER: Shaun/Krishnendu (-1 PN).
+       TIGER: Shaun/Krishnendu (-1 PN) (stochastic sampling)
        FTI: Arnab et. al.
-       Parspec: Tayyaba, Luca, et. al.
+       ppE: Tayyaba, Luca, et. al.
 
 ### 2. Ringdown: Parspec/pyring
+      pSEOB: Arnab
       ParSpec: Tayyaba, Luca et. al
       pyring: Vaishak 
    
 
  ## 5. Are cosmological observations consistent with general relativity?
-    Modified dispersion relation tests: Pratyutsava
+    Modified dispersion relation tests (Fisher): Pratyutsava 
 
 
 
