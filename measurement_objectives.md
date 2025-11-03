@@ -22,6 +22,7 @@ Only one of the below redundant tests that can be validated with full stochastic
    
 ### 5. Are cosmological observations consistent with general relativity?
     Modified dispersion relation tests (Fisher): Pratyutsava 
+    Infer the effective gravitational coupling from GWs observations
 
 
 
@@ -133,8 +134,10 @@ Measure the independent polarization states and constrain deviations from GR
 ## 5. Are cosmological observations consistent with general relativity?
 ### 5.1 Measure the distribution of sources in the sky and test consistency with isotropy/homogeneity
 ### 5.2  Measure the dispersion relation and the propagation of gravtiational waves and quantiry deviations
+### 5.2  Test the consistency of GWs and large scale structure observations 
 #### Observables to infer
 1. **Modified dispersion relation parameters** ($\alpha, \mathcal{A}$)
+2. **Infer the effective gravitational coupling from GWs observations**
 
 ### 5.3 Quantify deviations from LCDM model
 1. Constrain the parameters of the effective theory of dark energy (https://doi.org/10.1103/PhysRevD.111.084086)
