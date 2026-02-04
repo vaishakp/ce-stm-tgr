@@ -41,6 +41,7 @@ Please update [this file](team_members.yaml) with your information. Please note 
    3. [Cosmic explorer whitepaper](https://arxiv.org/pdf/2306.13745)
 9. [TGR slides](https://docs.google.com/presentation/d/19NWhEgf-ZZqXBrSV-ppqF9HlvFdHw8ev4g8d-G7gaUc/edit?usp=sharing) from the CE-STM Workshop held at PSU, 19-21 May 2025
 10. [Detector configurations, PSDs](https://docs.google.com/document/d/1vAWfyz1RNfle5oSDiKV3WYCb52sPpQM80UFbUHqD8Z0/edit?tab=t.0)
+11. [Overleaf document for STM TGR report](https://www.overleaf.com/project/692da452db372d3460a0df7b)
    
 ## Possible avenues 
 
